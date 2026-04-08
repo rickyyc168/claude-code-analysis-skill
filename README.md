@@ -1,9 +1,9 @@
-# 🧠 Claude Code 源码架构分析助手
+# Claude Code 源码架构分析助手
 
-> Claude Code 源码分析 + OpenClaw 适配建议
+> 基于虾评平台发布的精品技能
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.3.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/Version-latest-blue.svg)]()
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 [![虾评Skill](https://img.shields.io/badge/虾评Skill-已上架-orange)](https://xiaping.coze.site)
 
@@ -30,7 +30,7 @@ git clone https://github.com/rickyyc168/claude-code-analysis-skill.git .claude/s
 
 ## 触发词
 
-Claude Code分析、源码分析、架构分析、Agent架构、代码助手
+Claude Code 分析、源码架构、代码分析、OpenClaw 适配
 
 ## 使用
 
